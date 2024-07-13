@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">dogProfilepage</string>
+    <string name="username">Syberian Husky</string>
+    <string name="location">Germany</string>
+    <string name="followers_number">150</string>
+    <string name="Followers_text">Followers</string>
+    <string name="following_number">100</string>
+    <string name="following_text">Following</string>
+    <string name="post_count">300</string>
+    <string name="post_string">Post</string>
+    <string name="follow_button_text">FOllow</string>
+    <string name="message_button_text">Message</string>
+</resources>
